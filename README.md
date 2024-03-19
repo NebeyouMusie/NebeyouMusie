@@ -2,7 +2,7 @@
 
 ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Nebeyou Musie</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer & Data Science Enthusiast</h3>
 <img align="center" alt="Coding" width="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" />
 
 
