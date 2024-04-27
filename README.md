@@ -9,18 +9,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nebeyoumusie" alt="nebeyoumusie" /></a> </p>
 
-- 💬 Ask me about **React, Next.js, MERN**
-
-- 📫 How to reach me **nebeyoumusie@gmail.com**
+<h4 align="center">💬 You can ask me about Machine Learning and Web Development</h4>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nebeyou-musie-72608125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nebeyou musie" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="nebeyoumusie@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nebeyou-musie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@nebeyoumusie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://t.me/NebeyouMusie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -73,5 +80,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
 
-###
+<img align="right" height="150" src="https://camo.githubusercontent.com/f1fed6140e4ee16b8f70c2947aebe691e9550887abed346de542ac8d75fbb601/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"  />
+
 <div align="center"><img src="https://streak-stats.demolab.com?user=NebeyouMusie&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /><br><img src="https://github-readme-stats.vercel.app/api?username=NebeyouMusie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NebeyouMusie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></div>
