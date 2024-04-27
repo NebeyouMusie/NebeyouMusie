@@ -7,7 +7,7 @@
 <h4 align="center">💬 You can ask me about Machine Learning and Web Development</h4>
 <h5 align="center">Connect with me on:</h5>
 <div align="center">
-  <a href="nebeyoumusie@gmail.com" target="_blank">
+  <a href="mailto:nebeyoumusie@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nebeyou-musie" target="_blank">
