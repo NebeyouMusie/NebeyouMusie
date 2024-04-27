@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebeyoumusie&label=Profile%20views&color=0e75b6&style=flat" alt="nebeyoumusie" /> </p>
-<img align="center"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
+<div align="center">
+  <img align="center"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
+</div>
 <h1 align="center">Hello there 👋, I'm Nebeyou Musie</h1>
 <h3 align="center">A passionate developer, proficient in Machine Learning and Web Development</h3>
 <h4 align="center">💬 You can ask me about Machine Learning and Web Development</h4>
