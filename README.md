@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hello there 👋, I'm Nebeyou Musie</h1>
 <h3 align="center">A passionate developer, proficient in Machine Learning and Web Development</h3>
-<h4 align="center">💬 You can ask me about Data Science, Machine Learning, Deep Learning and Web Development</h4>
+<h4 align="center">💬 You can ask me about Data Science, Machine Learning, Deep Learning, NLP, LLM, GenAI and Web Development</h4>
 <h5 align="center">Connect with me on:</h5>
 <div align="center">
   <a href="mailto:nebeyoumusie@gmail.com" target="_blank">
