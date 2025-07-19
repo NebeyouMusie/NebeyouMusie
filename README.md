@@ -3,8 +3,8 @@
   <img align="center" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif"  />
 </div>
 <h1 align="center">Hello there 👋, I'm Nebeyou Musie</h1>
-<h3 align="center">A passionate developer, proficient in Machine Learning and Web Development</h3>
-<h4 align="center">💬 You can ask me about Data Science, Machine Learning, Deep Learning, NLP, LLM, GenAI and Web Development</h4>
+<h3 align="center">A passionate developer, proficient in AI, Web Development & n8n Automation</h3>
+<h4 align="center">💬 You can ask me about AI, Web Development and n8n Automation</h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nebeyou-musie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nebeyoumusie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nebeyoumusie@gmail.com) 
